@@ -1,7 +1,9 @@
 Análisis de Resultados y Modelo Estadístico Final
+
 Este repositorio documenta el procesamiento y modelado estadístico realizado sobre la base de datos de 25 encuestados.
 
 1. Tablas Estadísticas
+
 A continuación, se presentan las tablas organizadas bajo las normas APA, caracterizadas por la claridad en la presentación de los estadísticos descriptivos.
 
 Tabla 1. Distribución del género del padre o tutor encuestado.
