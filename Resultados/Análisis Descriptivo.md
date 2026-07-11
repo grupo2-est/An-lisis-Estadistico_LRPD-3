@@ -7,7 +7,7 @@ Este repositorio documenta el procesamiento y modelado estadístico realizado so
 El presente análisis tiene como finalidad caracterizar la muestra de 25 padres de familia y tutores encuestados, permitiendo identificar patrones en sus hábitos de comunicación, preferencias de canales digitales y disposición económica hacia servicios de orientación en educación sexual..  Para el procesamiento, sistematización y análisis de los datos recopilados en la encuesta, se utiliza el lenguaje de programación R.. A continuación, se presentan los resultados obtenidos mediante los procedimientos estadísticos realizados en dicho entorno, los cuales resumen las tendencias observadas en la población de estudio.
 
 # ==========================================
-> # 📊 ARCHIVO: analisis.R
+> # ARCHIVO: analisis.R
 > # Objetivo: Procesamiento estadístico con limpieza profunda de datos
 > # ==========================================
 > 
