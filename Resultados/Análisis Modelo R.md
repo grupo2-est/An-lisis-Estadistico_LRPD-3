@@ -5,7 +5,7 @@ Para el procesamiento sistemático de los datos, se implementó el entorno de pr
 El procesamiento realizado en R permite confirmar que la mayoría de los indicadores presentan una tendencia central clara, reflejando el comportamiento predominante de la muestra.
 
 # ==========================================
-> # 🎯 ARCHIVO: modelo.R
+> # ARCHIVO: modelo.R
 > # Objetivo: Ajustar el Modelo Descriptivo Final de Viabilidad
 > # ==========================================
 > 
