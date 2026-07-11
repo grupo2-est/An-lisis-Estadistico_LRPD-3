@@ -1,0 +1,28 @@
+﻿;Base de datos;;;;;;
+;;;;;;;
+ID;Genero_Padre;Sexo_Hijo;Frecuencia de conversación;Interés;Canal preferido;Frecuencia información;Disposición de pago
+1;Masculino;Hija;Siempre;Muy interesado;Instagram;Una vez por semana;S/20 a S/50
+2;Masculino;Hija;Frecuentemente;Muy interesado;WhatsApp;Una vez por semana;S/20 a S/50
+3;Femenino;Hijo;Siempre;Extremadamente interesado;Instagram;Una vez al mes;S/20 a S/50
+4;Femenino;Hijo;A veces ;Muy interesado;WhatsApp;Una vez por semana;Menos de S/20
+5;Femenino;Hija;Siempre;Muy interesado;Instagram;Una vez por semana;S/20 a S/50
+6;Masculino;Hijo;Siempre;Muy interesado;Facebook;Una vez por semana;S/20 a S/50
+7;Femenino;Hijo;Siempre;Extremadamente interesado;Instagram;Una vez por semana;Más de S/50
+8;Femenino;Hija;Siempre;Muy interesado;WhatsApp;Varias veces por semana;S/20 a S/50
+9;Femenino;Hija;Frecuentemente;Muy interesado;Instagram;Varias veces por semana;S/20 a S/50
+10;Masculino;Hija;Nunca;Muy interesado;WhatsApp;Una vez por semana;Menos de S/20
+11;Femenino;Hija;Frecuentemente;Muy interesado;Instagram;Una vez al mes;S/20 a S/50
+12;Masculino;Hija;Frecuentemente;Extremadamente interesado;Facebook;Una vez por semana;S/20 a S/50
+13;Femenino;Hijo;Siempre;Muy interesado;WhatsApp;Varias veces por semana;S/20 a S/50
+14;Femenino;Hija;A veces;Muy interesado;Instagram;Varias veces por semana;Menos de S/20
+15;Femenino;Hijo;A veces;Muy interesado;WhatsApp;Una vez por semana;S/20 a S/50
+16;Masculino;Hijo;Siempre;Muy interesado;Instagram;Varias veces por semana;S/20 a S/50
+17;Femenino;Hija;Rara vez;Poco interesado;Facebook;Cada dos semanas;Menos de S/20
+18;Femenino;Hijo;A veces;Muy interesado;WhatsApp;Una vez por semana;S/20 a S/50
+19;Masculino;Hijo;A veces;Muy interesado;Instagram;Todos los días;No pagaría
+20;Femenino;Hija;Frecuentemente;Muy interesado;WhatsApp;Una vez por semana;Menos de S/20
+21;Masculino;Hijo;A veces;Muy interesado;Facebook;Una vez por semana;S/20 a S/50
+22;Femenino;Hijo;Rara vez;Poco interesado;Instagram;Varias veces por semana;No pagaría
+23;Masculino;Hijo;Rara vez;Nada interesado;WhatsApp;Varias veces por semana;Menos de S/20
+24;Femenino;Hija;Rara vez;Muy interesado;Facebook;Una vez al mes;S/20 a S/50
+25;Masculino;Hija;A veces;Muy interesado;WhatsApp;Todos los días;Menos de S/20
