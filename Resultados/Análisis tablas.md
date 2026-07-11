@@ -58,6 +58,7 @@ Reducción
 | Cada dos semanas | 1 | 04.0 |
 | Una vez al mes | 3 | 12.0 |
 | **Total** | **25** | **100.0** |
+
 Tabla 7. Disposición de pago por una asesoría personalizada
 Reducción
 | Disposición de pago | n | % |
@@ -68,3 +69,13 @@ Reducción
 | Más de S/50 | 1 | 04.0 |
 | **Total** | **25** | **100.9** |
 
+Medidas de Tendencia Central
+| Variable | Medidas de tendencia central | Resultado(s) |
+| :--- | :--- | :--- |
+| Género del tutor | Moda | Femenino |
+| Sexo del adolescente | Moda | Hija |
+| Frecuencia de conversación | Mediana y Moda | A veces / Siempre |
+| Nivel de interés | Mediana y Moda | Muy interesado |
+| Canal digital preferido | Moda | Instagram y WhatsApp |
+| Frecuencia de orientación | Mediana y Moda | Una vez por semana |
+| Disposición de pago | Mediana y Moda | S/20 a S/50 |
