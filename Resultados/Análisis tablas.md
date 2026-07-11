@@ -79,3 +79,10 @@ Medidas de Tendencia Central
 | Canal digital preferido | Moda | Instagram y WhatsApp |
 | Frecuencia de orientación | Mediana y Moda | Una vez por semana |
 | Disposición de pago | Mediana y Moda | S/20 a S/50 |
+
+| Variable | Medidas de tendencia central | Resultado | Desviación Estándar |
+| :--- | :--- | :--- | :---: |
+| Frecuencia de conversación | Media | 3,6 | 1,17 |
+| Nivel de interés | Media | 2,96 | 0,6 |
+| Frecuencia de orientación | Media | 2,84 | 1,05 |
+| Disposición de pago | Media | 2,6 | 0,73 |
