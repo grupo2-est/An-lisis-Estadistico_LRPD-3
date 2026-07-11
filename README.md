@@ -30,7 +30,7 @@ El modelo de perfilamiento parental se sustenta en los siguientes hallazgos esta
 | **Sexo del Adolescente** | Distribución equilibrada (52.0% hijas / 48.0% hijos). |
 | **Frecuencia de Conversación** | Alta disposición (Media = 3.60; Moda = "Siempre"). |
 | **Nivel de Interés** | Alta viabilidad (76.0% "Muy interesado"; Desv. Est. = 0.60). |
-| **Canal Digital** | Arquitectura bimodal: Instagram (40.0%) y WhatsApp (40.0%). |
+| **Canal Digital** | Variable bimodal: Instagram (40.0%) y WhatsApp (40.0%). |
 | **Frecuencia de Envío** | Tasa óptima: Una vez por semana (Moda = 48.0%). |
 | **Sostenibilidad Económica** | Rango comercial óptimo: S/ 20 a S/ 50 (Moda = 60.0%). |
 
