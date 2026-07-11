@@ -35,7 +35,7 @@ El modelo de perfilamiento parental se sustenta en los siguientes hallazgos esta
 | **Sostenibilidad Económica** | Rango comercial óptimo: S/ 20 a S/ 50 (Moda = 60.0%). |
 
 ## Integrantes
-* Quijada Narváez Sofía
+* Quijada Narváez Sophia
 * Vicente Bautista Micaela
 * Cerda Paucar Celeste
 * Buiza Rosas Alonso
