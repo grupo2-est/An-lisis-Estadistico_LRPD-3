@@ -9,7 +9,7 @@ Este repositorio documenta el análisis estadístico y la sistematización del p
 * `/Base de datos`: Archivos con la matriz de datos crudos (25 observaciones).
 * `/Códigos`: Scripts de **R** (`Análisis.R`, `Modelo.R`) utilizados para el procesamiento estadístico automatizado.
 * `/Resultados`: Documentación de los análisis descriptivos, tablas de resultados y el informe final.
-* **Informe de Resultados**: Documento detallado con la interpretación integral de los hallazgos, el ajuste del modelo final y las conclusiones del estudio.
+* `/Informe`: Documento detallado con la interpretación integral de los hallazgos, el ajuste del modelo final y las conclusiones del estudio.
 
 ## Software Utilizado
 * **R**: Utilizado para el procesamiento, limpieza de datos y cálculo de estadísticos descriptivos.
